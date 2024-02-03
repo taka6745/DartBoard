@@ -1,0 +1,7 @@
+{
+    "title": "DartScoreTracker: A C++ Application for Recording Dart Scores in Cricket",
+    "description": "DartScoreTracker is an ongoing collaborative project developed by myself and a friend from computer science. Our goal is to create a robust C++ application that leverages image processing techniques to automatically record scores in the game of Cricket played on a dartboard. This project aims to bridge the gap between traditional dart scoring methods and modern technology, providing a seamless and automated way to track scores, enhance accuracy, and improve the overall gaming experience.",
+    "type": "Game",
+    "tags": "C++, Image Processing",
+    "related_projects": "Ongoing"
+}
