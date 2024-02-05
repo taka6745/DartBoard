@@ -75,10 +75,10 @@ Project Directory
 
 #### Images
 
-- **Feature Selection on Dartboard**: ![Feature DartBoard](./Feature_DartBoard.png) - This image shows the feature selection process to warp the photo using OpenCV.
-- **Warped Dartboard**: ![Warped DartBoard](./Warped_DartBoard.png) - The result of the feature selection to warp the board.
-- **Original Dartboard on an Angle**: ![Original Dart](./example_dart-3.jpg) - The original photo on an angle with the darts before it was warped.
-- **Overlay Dartboard**: ![Overlay DartBoard](./Overlay_DartBoard.png) <br> - Shows the positions overlayed on a face-on dartboard, using the difference in colors from the empty dartboard on an angle.
+- **Feature Selection on Dartboard**: <br> ![Feature DartBoard](./Feature_DartBoard.png) <br> - This image shows the feature selection process to warp the photo using OpenCV.
+- **Warped Dartboard**: <br> ![Warped DartBoard](./Warped_DartBoard.png) <br> - The result of the feature selection to warp the board.
+- **Original Dartboard on an Angle**: <br> ![Original Dart](./example_dart-3.jpg) <br> - The original photo on an angle with the darts before it was warped.
+- **Overlay Dartboard**: <br> ![Overlay DartBoard](./Overlay_DartBoard.png) <br> - Shows the positions overlayed on a face-on dartboard, using the difference in colors from the empty dartboard on an angle.
 
 #### To-Do List
 
