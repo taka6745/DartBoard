@@ -1,7 +1,6 @@
-import mysql.connector
-
+import sqlite3
 def connect_db():
-    # Connect to your MySQL database
+    # Connect to your SQLite database
     pass
 
 def save_score(score):
