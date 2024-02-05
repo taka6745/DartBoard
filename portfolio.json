@@ -1,6 +1,6 @@
 {
     "title": "DartScoreTracker: C++/Python Application for Recording Dart Scores",
-    "description": "DartScoreTracker is an ongoing collaborative project. Our goal is to create a robust C++ application that leverages image processing techniques to automatically record scores on a dartboard. The application will be able to recognize the dartboard and the location of the darts, and then record the scores in a user-friendly interface. The application will also be able to keep track of the game state and provide statistics on the players' performance. We are currently in the process of developing the image processing algorithms and the user interface. We are also working on integrating the application with a webcam to enable real-time score tracking.",
+    "description": "DartScoreTracker is an ongoing collaborative project. Our goal is to create a robust C++ application that leverages image processing techniques to automatically record scores on a dartboard. The application will be able to recognize the dartboard and the location of the darts, and then record the scores in a user-friendly interface. The application will also be able to keep track of the game state and provide statistics on the players' performance.",
     "type": "Image Processing",
     "photo": "https://images.vexels.com/media/users/3/258879/isolated/preview/6ac50fa7f0785b5ae27955f8496fee70-dartboard-party-game.png",
     "tags": "C++, Python, OpenCV, Image Processing",
