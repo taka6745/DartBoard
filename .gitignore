@@ -1,0 +1,5 @@
+# Ignore all images inside /Python/images/
+/Python/images/*.png
+/Python/images/*.jpg
+/Python/images/*.jpeg
+
