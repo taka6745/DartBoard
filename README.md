@@ -79,7 +79,10 @@ Project Directory
 - **Warped Dartboard**: <br> ![Warped DartBoard](./Warped_DartBoard.png) <br> - The result of the feature selection to warp the board.
 - **Original Dartboard on an Angle**: <br> ![Original Dart](./example_dart-3.jpg) <br> - The original photo on an angle with the darts before it was warped.
 - **Overlay Dartboard**: <br> ![Overlay DartBoard](./Overlay_DartBoard.png) <br> - Shows the positions overlayed on a face-on dartboard, using the difference in colors from the empty dartboard on an angle.
-
+- **Scan Dartboard Circles** <br> ![Scanned Circles](./scanned_circles.png) <br> This image shows the result of scanning the dartboard circles using image processing algorithms.
+- **Rotated Board Example** <br> ![Rotated Board Example](./scanned_form_rotate.jpg) <br> This shows the before example of the board not being perfectly aligned
+- **Line Detection for 20 Sector**: <br> ![Line Detection](./Line-Detection.png) <br> - This image shows the line detection for the 20 sector on the dartboard.
+- **Rotated Board Example** <br> ![Rotated Board Example](./Rotated-Sectors.png) <br> - This shows the rotated photo with the sectors drawn on top.
 #### To-Do List
 
 - [ ] Implement the camera feed capture module.
